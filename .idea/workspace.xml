@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360e19c8-89c5-4901-8771-b5a72097e7a6" name="Changes" comment=" **Cmunda po kaplicku**&#10;&#10;## Suroviny&#10;&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;## Postup přípravy&#10;&#10;* Syrové brambory oloupeme a nastrouháme.&#10;* Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;* Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;* Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;* Smažíme zvolna po obou stranách.&#10;* Podáváme s dušeným zelím.&#10;&#10;DOBROU CHUŤ" />
+    <list default="true" id="360e19c8-89c5-4901-8771-b5a72097e7a6" name="Changes" comment=" **Cmunda po kaplicku**&#10;&#10;## Suroviny&#10;&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;## Postup přípravy&#10;&#10;* Syrové brambory oloupeme a nastrouháme.&#10;* Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;* Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;* Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;* Smažíme zvolna po obou stranách.&#10;* Podáváme s dušeným zelím.&#10;&#10;DOBROU CHUŤ">
+      <change beforePath="$PROJECT_DIR$/recepty.md" beforeDir="false" afterPath="$PROJECT_DIR$/recepty.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668376166524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" **Cmunda po kaplicku**&#10;&#10;## Suroviny&#10;&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;## Postup přípravy&#10;&#10;* Syrové brambory oloupeme a nastrouháme.&#10;* Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;* Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;* Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;* Smažíme zvolna po obou stranách.&#10;* Podáváme s dušeným zelím.&#10;&#10;DOBROU CHUŤ">
+      <created>1668376825093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668376825093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,13 +81,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch-Klara_Wesselsova" />
+                        <option value="origin/branch-Klara_Wesselsova" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/branch-Klara_Wesselsova" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
